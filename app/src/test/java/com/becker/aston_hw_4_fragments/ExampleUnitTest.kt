@@ -1,8 +1,7 @@
-package com.becker.aston_hw_4_fragments_20
+package com.becker.aston_hw_4_fragments
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
